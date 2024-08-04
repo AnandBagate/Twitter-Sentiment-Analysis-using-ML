@@ -9,3 +9,8 @@ Flow of Project
 5. New Data
 6. Trained Logistic Regression Model
 7. Prediction (Positive or Negative) 
+
+
+Sentiment140 dataset with 1.6 million tweets from Kaggle link - https://www.kaggle.com/datasets/kazanova/sentiment140
+
+
